@@ -1,9 +1,19 @@
+# FRONT END REVIEW
 
 ### Who is Tim Berners-Lee? what were his goals?
     - 
 
 ### What is the W3C? 
     - world wide web consortium
+
+
+########################################################################################################################################
+
+
+## HTML MUST KNOWS
+    - tags and attributes
+    - basic understanding of accessibility
+    - semantic html
 
 ### What is Web Accessibility? Why is it important?
     - 
@@ -52,12 +62,21 @@
         - you can see the performance, accessibility, best practices, SEO, etc.
         - will also tell you what is wrong, and how you can improve it
     - "so thorough it's not even funny" - Kadeem Best
+    - you can embed it on your website
 
-### 
 
-### 
+########################################################################################################################################
 
-### 
+
+## CSS MUST KNOWS
+    - selectors
+        - id, class, element, combinators
+    - specificity
+    - responsive design
+    - layouts
+        - flexbox vd grid
+
+### What is a combinator?
 
 ### 
 
